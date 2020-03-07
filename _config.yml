@@ -7,3 +7,9 @@ color_scheme: dark
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
